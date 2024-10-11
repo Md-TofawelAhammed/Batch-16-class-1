@@ -1,0 +1,5 @@
+opening tag => <> closing tag => </>
+
+heading tag => h1-h6
+
+Single tag => <br>
